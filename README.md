@@ -4,7 +4,7 @@ A small practice repository used to learn how to open a pull request with Claude
 
 ## What is this?
 
-This repo is a sandbox for pratice. It doesn't do anything on its own — it's just a
+This repo is a sandbox for practice. It doesn't do anything on its own — it's just a
 place to safely try out the Git and GitHub workflow: branches, commits, and pull requests.
 
 ## Getting started
